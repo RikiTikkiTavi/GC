@@ -1,0 +1,1 @@
+add_executable (gc main.c interpreter/vm.interpreter.h src/tests.h src/gc.h src/utils.h interpreter/vars.interpreter.h)
